@@ -1,0 +1,15 @@
+#btn:hover {
+  background-color: #66BB6A !important;
+  transition: 0.5s !important;
+}
+
+#card {
+  border-radius: 10px;
+}
+
+#card:hover {
+  transition: 1s;
+  box-shadow: 0 0 20px #B0BEC5;
+  border-radius: 10px;
+  background: #ECEFF1;
+}
