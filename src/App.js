@@ -40,9 +40,8 @@ function App() {
       </BrowserRouter>
       {/* Footer Part  */}
       <footer className="text-light mt-5" style={{ background: "#2196F3" }}>
-        <p className=" p-5">
-          © 2021 Skill Up. <br />
-          Designd By MDNHS.
+        <p className="p-3 mb-0">
+          copyright © 2021 all rights reserved<br />By MDNHS.
         </p>
       </footer>
     </div>

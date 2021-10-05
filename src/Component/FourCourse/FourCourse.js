@@ -102,6 +102,7 @@ const FourCourse = (props) => {
               style={{
                 background: "#2196F3",
                 border: "none",
+                borderRadius: "10px"
               }}
             >
               Enrole Now
